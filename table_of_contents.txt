@@ -1,0 +1,7 @@
+/* all of the files will be separated on purpose to give a good
+idea of what to do in steps. */
+
+1. Create controller functions responsible for signing the token
+and logging in with the token from the sign function.
+
+2. Create a controller function for verifying the token.
